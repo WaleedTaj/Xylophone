@@ -11,9 +11,7 @@ A **Flutter-based Xylophone App** with an interactive UI that allows users to pl
 
 ## **📸 Screenshots**  
 
-<img src="https://github.com/WaleedTaj/Xylophone/blob/main/images/Screenshot%201.jpeg" width="200" style="margin-right: 20px;"/>  
-<img src="https://github.com/WaleedTaj/Xylophone/blob/main/images/Screenshot%202.jpeg" width="200"/>  
-<img src="https://github.com/WaleedTaj/Xylophone/blob/main/images/Screenshot%203.jpeg" width="200"/>  
+<img src="https://github.com/WaleedTaj/Xylophone/blob/master/assets/images/Screenshot%201.jpeg" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Xylophone/blob/master/assets/images/Screenshot%202.jpeg" width="200"/>
 
 ## **🚀 Getting Started**  
 
